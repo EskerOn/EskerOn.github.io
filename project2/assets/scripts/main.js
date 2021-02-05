@@ -28,7 +28,7 @@ closes.forEach(function (close) {
         content.classList.add('animate__animated');
         //setTimeout setInterval
         setTimeout(function(){
-            location.href = "/project2";
+            location.href = "/change";
         }, 300);  
         
         console.log(':c bien sadboy xdxdxd');
