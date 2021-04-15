@@ -1,8 +1,4 @@
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function() {
-      navigator.serviceWorker.register('worker.js?'+Math.random()+'')
-    });
-  }
+
 //function that display value
 function addval(val){
     document.getElementById("result").value += val
