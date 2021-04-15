@@ -8,7 +8,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "https://eskeron.github.io/calculator/index.html",
+    "start_url": "calculator/index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#a1d9fc",
